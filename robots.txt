@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iufna.github.io/HfS/sitemap.HfS.gz
